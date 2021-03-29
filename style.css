@@ -2,7 +2,7 @@ body
 {
     background-image: url(https://github.com/KirillSh22/HTML_Labs/blob/master/wood_picture.jpg?raw=true);
     background-color: yellow;
-    background-repeat: repeat-x;
+    background-repeat: repeat-y;
     background-attachment: scroll;
     color: red;
 }
